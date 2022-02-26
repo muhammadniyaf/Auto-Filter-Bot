@@ -12,7 +12,7 @@
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Auto-Filter-Bot/fork">
+  <a href="https://github.com/muhammad/Auto-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
